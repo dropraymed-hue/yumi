@@ -1,0 +1,20 @@
+{
+  "appName": "Yumi",
+  "bundleId": "com.YOUR_NAME.yumi",
+  "siteUrl": "https://dropraymed-hue.github.io/yumi/",
+  "urlScheme": "yumiapp",
+  "supabaseUrl": "https://kkowrssspsirmdnlasnw.supabase.co",
+  "supabaseKey": "sb_publishable_ZgaTrqYEOPpJ-nOw99O_0w_p-tHx_Xs",
+  "revenuecatIosKey": "YOUR_REVENUECAT_APPLE_API_KEY",
+  "entitlement": "pro",
+  "products": {
+    "month": "yumi.premium.month",
+    "6m": "yumi.premium.6m",
+    "year": "yumi.premium.year"
+  },
+  "developer": "YOUR_NAME",
+  "contactEmail": "YOUR_EMAIL",
+  "address": "YOUR_POSTAL_ADDRESS",
+  "anpdpNumber": "",
+  "termsUrl": ""
+}
